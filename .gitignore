@@ -4,15 +4,25 @@ venv/
 env/
 ENV/
 
-# Archivos grandes de datos
-*.csv
+# Datasets y archivos grandes  
 Dataset/
-EjerciciosPropuestos/Ejercicio3/noticias_procesadas.csv
+*.csv
+data/
+*.pkl
+*.h5
+*.hdf5
 
-# Otros archivos comunes de Python
+# Python
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 .Python
 .pytest_cache/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
