@@ -26,3 +26,16 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+# Archivos posteriores al 11 de julio - solo local
+EjerciciosPropuestos/Ejercicio1/Ejercicio1Repaso.py
+EjerciciosPropuestos/Ejercicio1/Ejercicio1_tal_cual.py
+EjerciciosPropuestos/Ejercicio1/Ejercicio1_tal_cual.ipynb
+EjerciciosPropuestos/Ejercicio10/Ejercicio10_Clasificación_Multiclase_Iris.*
+EjerciciosPropuestos/Ejercicio11/Ejercicio11_Validación_Cruzada_y_Ajuste_de_Hiperparámetros_Random _Forest.*
+EjerciciosPropuestos/Ejercicio12/Ejercicio12_Detección_de_Spam_TF_IDF_SVM*
+EjerciciosPropuestos/Ejercicio13/
+EjerciciosPropuestos/Ejercicio14/
+EjerciciosPropuestos/Ejercicio15/
+EjerciciosPropuestos/Ejercicio16/
+EjerciciosPropuestos/Ejercicio17/
+EjerciciosPropuestos/Ejercicio18/
